@@ -40,7 +40,7 @@ console.log( 'El segundo actual es: ', segundo );
 console.log( 'La canción actual es: ', cancion );
 console.log( 'El autor es: ', autor );
 
-const pokemon: string[] = ['Pikachu', 'Meewtwo', 'Mew'];
+const pokemon: string[] = ['Pikachu', 'Mewtwo', 'Mew'];
 
 const [ p1, p2, p3] = pokemon;
 
